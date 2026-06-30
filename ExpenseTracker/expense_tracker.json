@@ -1,0 +1,27 @@
+{
+    "currency": "INR",
+    "categories": [
+        "Personal",
+        "Dining out",
+        "Educational",
+        "Fees",
+        "Home",
+        "Medication"
+    ],
+    "expenses": [
+        {
+            "id": 1,
+            "date": "30-06-2026",
+            "amount": 860,
+            "category": "Personal",
+            "notes": "fasion"
+        },
+        {
+            "id": 2,
+            "date": "30-06-2026",
+            "amount": 299,
+            "category": "Dining out",
+            "notes": ""
+        }
+    ]
+}
